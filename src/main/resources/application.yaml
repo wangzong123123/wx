@@ -1,0 +1,24 @@
+WeChat:
+  appid: wxc64e336ae44c6ccb
+  appsecret: c7f620a0acbeb426a67ebe0146156f0c
+  template_id: 9-6oKA6Yx0Odbz4JlTf9N6rBMYPcemX3-JFSkKueeRQ
+  openid2: oEoq46KwBUVqeZgf2vELdHMOv2MY
+  openid: oEoq46C1z-2NSOqggRxwAjVSXRLY #女朋友的openid 关注测试公众号后后台可查询
+Task:
+  cron: "* * 10,12,14,16,18,20 * * ? " #"0/2 * * * * ? "    #"* * 10,12,14,16,18,20 * * ? "
+Weather: #天气接口 tianqiapi.com
+  appid: 51652991
+  appsecret: 598Jubjy
+  city: 贵阳
+Date:
+  anniversary:
+    date: 2022/08/24
+    isChineseCalendar: false #是否是农历
+  boyBirthday:
+    name: 小帅 #男生名字
+    date: 2022/08/24
+    isChineseCalendar: false #是否是农历
+  girlBirthday:
+    name: 小美 #女生名字
+    date: 2022/08/24
+    isChineseCalendar: false #是否是农历

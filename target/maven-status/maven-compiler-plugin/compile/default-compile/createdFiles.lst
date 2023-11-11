@@ -1,0 +1,6 @@
+fun\kwok\wechatpush\entity\Weather.class
+fun\kwok\wechatpush\config\WechatPushTask.class
+fun\kwok\wechatpush\service\MainService.class
+fun\kwok\wechatpush\service\WeatherService.class
+fun\kwok\wechatpush\utils\DateUtil.class
+fun\kwok\wechatpush\WechatpushApplication.class
